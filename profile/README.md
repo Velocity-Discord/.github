@@ -1,2 +1,2 @@
 # Velocity
-#### A Small Client Modification for @Discord
+#### An upcoming Client Modification for @discord enhanced by Plugins and Themes!
